@@ -25,14 +25,7 @@ The Tableau dashboard was built according to the provided requirements, offering
 
 ## Key Insights & Impact 
 
-* **1. HR Attrition Scorecard:** The analysis revealed the following critical organizational metrics as a baseline for all subsequent departmental and demographic findings:
-| Metric | Value |
-| :--- | :--- |
-| **Employee Count** | 1,470 |
-| **Attrition Count** | 237 |
-| **Attrition Rate** | **16.12%** |
-| **Active Employees** | 1,233 |
-| **Average Employee Age** | 36.92 |
+* **1. HR Attrition Scorecard:** The analysis revealed the following critical organizational metrics as a baseline for all subsequent departmental and demographic findings: **Employee Count** = 1,470, **Attrition Count** = 237, **Attrition Rate** = **16.12%**, **Active Employees** = 1,233, **Average Employee Age** = 36.92. 
 
 * **2. Attrition by Gender:** Attrition is higher among male employees with 150 departures compared to female employees with 87 departures. This needs to be investigated why male employees depature is higher? Is it because of work-life balance or career development or something else.
   
